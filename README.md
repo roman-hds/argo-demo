@@ -1,1 +1,1 @@
-# argo-demo project
+# argocd demo project
